@@ -4,7 +4,7 @@ Existing methods mainly consider vehicle smoke detection as a problem of boundin
 
 # __PoVSSeg__ <br>
 
-The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly. Figure. 2 illustrates some samples
+The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly. Figure. 1 illustrates some samples
 from the PoVSSeg. 
 <div align="center">
 	<img src="/images/sample.png" alt="Editor" width="550">
@@ -13,7 +13,6 @@ from the PoVSSeg.
 various traffic scenes and annotated with the polygon</p> <br>
 
 The structure of the PoSSeg Dataset are as shown:
-
 .<br>
 |-------image. <br>
 |    &emsp;&emsp;&emsp;   |----img1.png     <br>
@@ -30,7 +29,6 @@ The structure of the PoSSeg Dataset are as shown:
 | The image "label***.png" is the annotation of "img***.png" <br>
 |________________________________________________________________________<br>
 .<br>
-
 
 You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). 
 An email with dataset download link will come to you.
