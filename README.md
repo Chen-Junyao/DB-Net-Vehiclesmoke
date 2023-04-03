@@ -6,7 +6,7 @@ The structure of the PoSSeg Dataset are as shown:
 
 .<br>
 |-------image. <br>
-|       |----img1.png     <br>
+|    &emsp   |----img1.png     <br>
 |       |    ...          <br>
 |       |----img3962.png  <br>
 |-----label<br>     
