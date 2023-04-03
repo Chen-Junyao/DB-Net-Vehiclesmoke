@@ -24,7 +24,6 @@ The structure of the PoSSeg Dataset are as shown:
 |________________________________________________________________________<br>
 .<br>
 
-<br>
 You can download the dataset by filling out this [form](https://www.baidu.com/). 
 An email with dataset download link will come to you.
 
