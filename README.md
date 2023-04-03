@@ -5,17 +5,17 @@ The PoVSSeg are randomly splited as traing set and test set, which contained 381
 The structure of the PoSSeg Dataset are as shown:
 #
 .
-|----image
-|     |img1.png  
-|     |...     
-|     |img3962.png
-|----label
-|     |label1.png
-|     |...
-|     |label3962.png
-|----Smoke_splits
-|     |train.txt
-|     |val.txt
+|----image. <br>
+|     |img1.png    <br>
+|     |...     <br>
+|     |img3962.png  <br>
+|----label  <br>     
+|     |label1.png  <br>
+|     |...    <br>
+|     |label3962.png  <br>
+|----Smoke_splits   <br>
+|     |train.txt  <br>
+|     |val.txt  <br>
 | 
 | The image "label***.png" is the annotation of "img***.png"
 | 
