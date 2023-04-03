@@ -12,7 +12,7 @@ from the PoVSSeg.
 <p align="center">Figure. 1 Several samples in the PoVSSeg. The PoVSSeg contained vehicle smoke images from <br>
 various traffic scenes and annotated with the polygon</p> <br>
 
-The structure of the PoSSeg Dataset are as shown:
+The structure of the PoSSeg Dataset are as shown:<br>
 .<br>
 |-------image. <br>
 |    &emsp;&emsp;&emsp;   |----img1.png     <br>
