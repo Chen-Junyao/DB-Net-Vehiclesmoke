@@ -31,10 +31,12 @@ An email with dataset download link will come to you.
 
 
 # DB-Net
+
+
 <div align="center">
 	<img src="/images/framework_DB-Net.png" alt="Editor" width="700">
 </div>
 
-<p align="center">Figure. 2 Overall structure of the DB-Net. The main branch is responsible for extracting features, while the aggregation branch is designed to fuse these features. ’⊕’  represent pixel-wise summation.</p> <br>
+<p align="center">Figure. 2 Overall structure of the DB-Net. The main branch is responsible for extracting features, while the aggregation branch is designed to fuse these features. ’⊕’ represent pixel-wise summation.</p> <br>
 
 
