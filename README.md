@@ -7,7 +7,7 @@ Existing methods mainly consider vehicle smoke detection as a problem of boundin
 The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly. Figure. 2 illustrates some samples
 from the PoVSSeg. 
 <div align="center">
-	<img src="/images/sample.png" alt="Editor" width="600">
+	<img src="/images/sample.png" alt="Editor" width="550">
 </div>
 <p align="center">Figure. 1 Several samples in the PoVSSeg. The PoVSSeg contained vehicle smoke images from <br>
 various traffic scenes and annotated with the polygon</p> <br>
@@ -38,5 +38,5 @@ An email with dataset download link will come to you.
 
 # DB-Net
 <div align="center">
-	<img src="/images/framework_DB-Net.png" alt="Editor" width="600">
+	<img src="/images/framework_DB-Net.png" alt="Editor" width="700">
 </div>
