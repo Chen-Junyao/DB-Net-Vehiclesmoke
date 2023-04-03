@@ -2,9 +2,10 @@
 Vision-based vehicle smoke detection aims to locate the regions of vehicle smoke in video frames, which plays a vital role in intelligent surveillance. 
 Existing methods mainly consider vehicle smoke detection as a problem of bounding-box-based detection or pixel-level semantic segmentation in the deep learning era, which struggle to address the trade-off of localization accuracy and speed. In addition, although various studies have been reported, there is no open benchmark available for real vehicle smoke detection. To address these issues, we propose a Polygon-based annotated Vehicle Smoke Segmentation dataset(PoVSSeg) and a block-wise vehicle smoke detection method.
 
-# __PoVSSeg Dataset__ <br>
+# __PoVSSeg__ <br>
 
-The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly. Figure. 1 shows the <br>
+The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly. Figure. 2 illustrates some samples
+from the PoVSSeg. <br>
 The structure of the PoSSeg Dataset are as shown:
 
 .<br>
@@ -24,8 +25,10 @@ The structure of the PoSSeg Dataset are as shown:
 |________________________________________________________________________<br>
 .<br>
 
-![image](/images/sample.png)
 
+<div align="center">
+	<img src="/images/sample.png" alt="Editor" width="500">
+</div>
 
 You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). 
 An email with dataset download link will come to you.
