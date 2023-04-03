@@ -27,4 +27,6 @@ The structure of the PoSSeg Dataset are as shown:
 <br>
 You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). An email with dataset download link will come to you.
 
+[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+
 # DB-Net
