@@ -24,11 +24,10 @@ The structure of the PoSSeg Dataset are as shown:
 | The image "label***.png" is the annotation of "img***.png" <br>
 |________________________________________________________________________<br>
 .<br>
-
-
 <div align="center">
-	<img src="/images/sample.png" alt="Editor" width="500">
+	<img src="/images/sample.png" alt="Editor" width="600">
 </div>
+Figure. 1 Several samples in the PoVSSeg. The PoVSSeg contained vehicle smoke images from various traffic scenes and annotated with the polygon <br>
 
 You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). 
 An email with dataset download link will come to you.
