@@ -25,8 +25,8 @@ The structure of the PoSSeg Dataset are as shown:
 .<br>
 
 <br>
-You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). An email with dataset download link will come to you.
-[ form ](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+You can download the dataset by filling out this [form] (https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). An email with dataset download link will come to you.
+
 
 
 # DB-Net
