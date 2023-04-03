@@ -32,6 +32,12 @@ An email with dataset download link will come to you.
 
 # DB-Net
 
+⭐ DEPLOY get pretrained models： 
+[Coarse]()、
+[Fine]()、
+[Fine-to-coarse]()、
+[Coarse-to-fine](), and deploy in real environments
+
 
 <div align="center">
 	<img src="/images/framework_DB-Net.png" alt="Editor" width="700">
