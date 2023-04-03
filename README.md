@@ -6,16 +6,16 @@ The structure of the PoSSeg Dataset are as shown:
 
 .<br>
 |-------image. <br>
-|    &emsp;&emsp;&emsp;&emsp;   |----img1.png     <br>
-|     &emsp;&emsp;  |    ...          <br>
-|      &emsp;&emsp; |----img3962.png  <br>
-|-----label<br>     
-|      &emsp;&emsp; |----label1.png   <br>
-|      &emsp;&emsp; |    ...          <br>
-|      &emsp;&emsp; |----label3962.png  <br>
+|    &emsp;&emsp;&emsp;   |----img1.png     <br>
+|     &emsp;&emsp;&emsp;  |    ...          <br>
+|      &emsp;&emsp;&emsp; |----img3962.png  <br>
+|-----label    
+|      &emsp;&emsp;&emsp; |----label1.png   <br>
+|      &emsp;&emsp;&emsp; |    ...          <br>
+|      &emsp;&emsp;&emsp; |----label3962.png  <br>
 |-----Smoke_splits          <br>
-|      &emsp;&emsp; |----train.txt      <br>
-|      &emsp;&emsp; |----val.txt        <br>
+|      &emsp;&emsp;&emsp; |----train.txt      <br>
+|      &emsp;&emsp;&emsp; |----val.txt        <br>
 |    <br>
 | The image "label***.png" is the annotation of "img***.png" <br>
 |   <br>
