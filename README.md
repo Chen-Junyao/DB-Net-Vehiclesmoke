@@ -37,4 +37,6 @@ An email with dataset download link will come to you.
 
 
 # DB-Net
-![image](/images/framework_DB-Net.png)
+<div align="center">
+	<img src="/images/framework_DB-Net.png" alt="Editor" width="600">
+</div>
