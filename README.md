@@ -1,6 +1,8 @@
-# DB-Net_Vehiclesmoke
+# DB-Net: Detecting Vehicle Smoke with Deep Block Networks
+Vision-based vehicle smoke detection aims to locate the regions of vehicle smoke in video frames, which plays a vital role in intelligent surveillance. 
 
-⭐ __PoVSSeg Dataset__ <br>
+# ⭐ __PoVSSeg Dataset__ <br>
+
 The PoVSSeg are randomly splited as traing set and test set, which contained 3812 and 150 images respectly.<br>
 The structure of the PoSSeg Dataset are as shown:
 
