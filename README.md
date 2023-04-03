@@ -27,7 +27,7 @@ The structure of the PoSSeg Dataset are as shown:
 <div align="center">
 	<img src="/images/sample.png" alt="Editor" width="600">
 </div>
-<p align="center">Figure. 1 Several samples in the PoVSSeg. The PoVSSeg contained vehicle smoke images from 
+<p align="center">Figure. 1 Several samples in the PoVSSeg. The PoVSSeg contained vehicle smoke images from <br>
 various traffic scenes and annotated with the polygon</p> <br>
 
 You can download the dataset by filling out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfZ6Pw6muzzNTMrCV5uGrYsLxy0l1veolO-oH70uu1cJp-GUg/viewform?usp=sf_link). 
