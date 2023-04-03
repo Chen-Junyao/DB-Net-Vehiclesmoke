@@ -31,18 +31,17 @@ An email with dataset download link will come to you.
 
 
 # DB-Net
+Inspired by the encoder-decoder structure and based on the block-wise prediction formulation, we propose the DB-Net, a dual-branch 
+network with a main branch and an aggregation branch. The main branch is designed for feature extraction, and the aggregation branch is for feature enhancement. With the help of the dual-branch architecture, DB-Net can extract and aggregate features parallelly, which is more efficient than the encoder-decoder structured models. The architecture of the DB-Net is presented in Figure 2.
+<div align="center">
+	<img src="/images/framework_DB-Net.png" alt="Editor" width="700">
+</div>
+<p align="center">Figure. 2 Overall structure of the DB-Net. The main branch is responsible for extracting features, while the aggregation branch is designed to fuse these features. ’⊕’ represent pixel-wise summation.</p> <br>
 
 ⭐ DEPLOY get pretrained models from different training strategy:
 [Coarse](https://drive.google.com/file/d/1ZRVgfy3ZLv-fD2SIXJCAf7Rr64TW1ck0/view?usp=share_link)、
 [Fine](https://drive.google.com/file/d/1CJm2MYgqLvzvgiJ2vkLjv8yPUaYwgYBK/view?usp=share_link)、
 [Fine-to-coarse](https://drive.google.com/file/d/1hJmW-HERFbNbNdTsfq1uOqxEG9t3aG6Y/view?usp=share_link)、
 [Coarse-to-fine](https://drive.google.com/file/d/1M7PR7yU48SeyJWkhLPFKyk23ilbAtENb/view?usp=share_link), and deploy in real environments
-
-
-<div align="center">
-	<img src="/images/framework_DB-Net.png" alt="Editor" width="700">
-</div>
-
-<p align="center">Figure. 2 Overall structure of the DB-Net. The main branch is responsible for extracting features, while the aggregation branch is designed to fuse these features. ’⊕’ represent pixel-wise summation.</p> <br>
 
 
