@@ -32,7 +32,7 @@ An email with dataset download link will come to you.
 
 # DB-Net
 
-⭐ DEPLOY get pretrained models： 
+⭐ DEPLOY get pretrained models from different training strategy:
 [Coarse](https://drive.google.com/file/d/1ZRVgfy3ZLv-fD2SIXJCAf7Rr64TW1ck0/view?usp=share_link)、
 [Fine](https://drive.google.com/file/d/1CJm2MYgqLvzvgiJ2vkLjv8yPUaYwgYBK/view?usp=share_link)、
 [Fine-to-coarse](https://drive.google.com/file/d/1hJmW-HERFbNbNdTsfq1uOqxEG9t3aG6Y/view?usp=share_link)、
