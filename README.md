@@ -45,4 +45,7 @@ Furthermore, we propose a coarse-to-fine training strategy to take full use of e
 [Fine-to-coarse](https://drive.google.com/file/d/1hJmW-HERFbNbNdTsfq1uOqxEG9t3aG6Y/view?usp=share_link)、
 [Coarse-to-fine](https://drive.google.com/file/d/1M7PR7yU48SeyJWkhLPFKyk23ilbAtENb/view?usp=share_link), and deploy in real environments
 
+```
+python test_val.py
+
 
