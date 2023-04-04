@@ -47,5 +47,5 @@ Furthermore, we propose a coarse-to-fine training strategy to take full use of e
 
 ```
 python test_val.py
-
-
+```
+get mean Intersection-over-Union results the at block-wise in PoVSSeg test set.
