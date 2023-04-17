@@ -8,7 +8,6 @@ import numpy as np
 import torch.nn.functional as F
 from model import DB_Net
 from sklearn import metrics
-import time
 
 colormap =[[0,0,0],[128,0,0]]
 cm2lbl=np.zeros(256**3)
@@ -77,7 +76,6 @@ if __name__ == '__main__':
         data = f.readlines()  
     background=[]
     smoke=[]
-    total_time=[]
     for i in data:
         i=i.strip('\n')
         frame=image_path+"img"+i.split("el")[1]+'.png'
@@ -91,15 +89,11 @@ if __name__ == '__main__':
         ])
         frame = im_tfs(frame)
         frame = Variable(torch.unsqueeze(frame, dim=0).float(), requires_grad=False)
-        start_time=time.time()
         frame = frame.to(device)
         outputs = model(frame)
         outputs = F.softmax(outputs, dim=1)
         smoke_output = outputs.max(dim=1)[1].data.cpu().numpy()
         smoke_output = np.squeeze(smoke_output)
-        end_time=time.time()
-        detecting_time=end_time-start_time
-        total_time.append(detecting_time)
 
         lable = cv2.imread(label)
         lable = cv2.resize(lable, (960, 540),interpolation=cv2.INTER_NEAREST)
@@ -116,7 +110,6 @@ if __name__ == '__main__':
 
     print('mean IOU of background: ',sum(background)/len(background))
     print('mean IOU of smoke: ',sum(smoke)/len(smoke))
-    print('average detecting time: ',1/(sum(total_time)/len(total_time)))
     
 
 
