@@ -49,3 +49,19 @@ Furthermore, we propose a coarse-to-fine training strategy to take full use of e
 python test_val.py
 ```
 get mean Intersection-over-Union results the at block-wise in PoVSSeg test set.
+
+# Citation
+Do not forget to cite our work appropriately.
+
+```
+@article{chen2023db,
+  title={DB-Net: Detecting Vehicle Smoke with Deep Block Networks},
+  author={Chen, Junyao and Peng, Xiaojiang},
+  journal={Applied Sciences},
+  volume={13},
+  number={8},
+  pages={4941},
+  year={2023},
+  publisher={MDPI}
+}
+```
